@@ -1,0 +1,1448 @@
+abbv,term
+a11y,accessibility
+aaa,"authentication authorization, accounting"
+aabb,axis aligned bounding box
+aac,advanced audio coding
+aal,atm adaptation layer
+aalc,atm adaptation layer connection
+aarp,appletalk address resolution protocol
+abac,attribute-based access control
+abcl,actor-based concurrent language
+abi,application binary interface
+abm,asynchronous balanced mode
+abr,adaptive bitrate (streaming)
+ac,alternating current
+acd,automatic call distributor
+ace,alternating conditional expectation  algorithm
+acid,atomicity consistency isolation durability
+ack,amsterdam compiler kit
+acl,active current loop
+acm,association for computing machinery
+acme,automated classification of medical entities
+acp,airline control program
+acpi,advanced configuration and power interface
+acr,attenuation to crosstalk ratio
+ad,administrative domain
+adc,apple display connector
+adb,apple desktop bus
+adccp,advanced data communications control procedures
+ado,activex data objects
+adsl,asymmetric digital subscriber line
+adt,automatic drum transcription
+ae,autoencoder
+aes,advanced encryption standard
+af,anisotropic filtering
+afp,apple filing protocol
+agi,artificial general intelligence
+agp,accelerated graphics port
+ah,active hub
+ai,artificial intelligence
+aix,advanced interactive executive
+ajax,asynchronous javascript and xml
+al,access list
+alac,apple lossless audio codec
+algol,algorithmic language
+alsa,advanced linux sound architecture
+alu,arithmetic and logical unit
+am,amplitude modulation
+amoled,active-matrix organic light-emitting diode
+amd,advanced micro devices
+amqp,advanced message queuing protocol
+amr,audio modem riser
+ansi,american national standards institute
+ant,another neat tool
+aoe,ata over ethernet
+aop,aspect-oriented programming
+aot,ahead-of-time
+apci,application-layer protocol control information
+api,application programming interface
+apic,advanced programmable interrupt controller
+apipa,automatic private ip addressing
+apl,a programming language
+apr,apache portable runtime
+arc,advanced risc computing
+arin,american registry for internet numbers
+arm,advanced risc machines
+aros,aros research operating system
+arp,address resolution protocol
+arpa,advanced research projects agency
+arpanet,advanced research projects agency network
+as,access server
+ascii,american standard code for information interchange
+authip,authenticated internet protocol
+asg,abstract semantic graph
+asic,application-specific integrated circuit
+asimo,advanced step in innovative mobility
+aslr,address space layout randomization
+asm,algorithmic state machine
+asmp,asymmetric multiprocessing
+asn.1,abstract syntax notation 1
+asp,application service provider
+asr,asynchronous signal routine
+ast,abstract syntax tree
+at,active terminator
+ata,advanced technology attachment
+atag,authoring tool accessibility guidelines
+atapi,advanced technology attachment packet interface
+atm,asynchronous transfer mode
+authn,authentication
+authz,authorization
+av,antivirus
+avc,advanced video coding
+avi,audio video interleaved
+awk,aho weinberger kernighan
+aws,amazon web services
+awt,abstract window toolkit
+b2b,business-to-business
+b2c,business-to-consumer
+b2e,business-to-employee
+bal,basic assembly language
+bam,block availability map
+bash,bourne-again shell
+basic,beginner's all-purpose symbolic instruction code
+bbp,baseband processor
+bbs,bulletin board system
+bc,business continuity
+bcc,blind carbon copy
+bcd,boot configuration data
+bcnf,boycecodd normal form
+bcp,best current practice
+be,backend
+beep,blocks extensible exchange protocol
+ber,bit error rate
+bfd,binary file descriptor
+bfs,breadth-first search
+bft,byzantine fault tolerant
+bgp,border gateway protocol
+bi,business intelligence
+bidi,bi-directional
+bin,binary
+binac,binary automatic computer
+bind,berkeley internet name domain
+bios,basic input output system
+bjt,bipolar junction transistor
+bit,binary digit
+blob,binary large object
+blog,web log
+bmp,basic multilingual plane
+bnc,baby neill constant
+boinc,berkeley open infrastructure for network computing
+bom,byte order mark
+bootp,bootstrap protocol
+bpdu,bridge protocol data unit
+bpel,business process execution language
+bpl,broadband over power lines
+bpm,business process modeling
+bps,bits per second
+brm,business reference model
+brms,business rule management system
+brr,business readiness rating
+brs,broadband radio service
+bsa,business software alliance
+bsb,backside bus
+bsd,berkeley software distribution
+bsod,blue screen of death
+bss,block started by symbol
+bt,bluetooth
+b tam,basic telecommunications access method
+bw,bandwidth
+byod,bring your own device
+byte,by eight (group of 8 bits)
+ca,computer accountancy
+cad,computer-aided design
+cae,contractive autoencoder
+caid,computer-aided industrial design
+cai,computer-aided instruction
+cam,computer-aided manufacturing
+cap,consistency availability partition tolerance (theorem)
+captcha,completely automated public turing test to tell computers and humans apart
+cat,computer-aided translation
+caq,computer-aided quality assurance
+case,computer-aided software engineering
+cc,c compiler
+cc,carbon copy
+cd,compact disc
+cde,common desktop environment
+cdma,code-division multiple access
+cdn,content delivery network
+cdp,continuous data protection
+cd-r,cd-recordable
+cd-rom,cd read-only memory
+cd-rw,cd-rewritable
+cdsa,common data security architecture
+cert,computer emergency response team
+ces,consumer electronics show
+cf,compact flash
+cfd,computational fluid dynamics
+cfg,control-flow graph
+cg,computer graphics
+cga,color graphics array
+cgi,computer-generated imagery
+cgt,computational graph theory
+chap,challenge-handshake authentication protocol
+chs,cylinder-head-sector
+cidr,classless inter-domain routing
+cifs,common internet filesystem
+cim,common information model
+cio,chief information officer
+cir,committed information rate
+cisc,complex instruction set computer
+cjk,"chinese, japanese, and korean"
+cjkv,"chinese, japanese, korean, and vietnamese"
+cli,command line interface
+clr,common language runtime
+cm,content management
+cmdb,configuration management database
+cmmi,capability maturity model integration
+cmos,complementary metal-oxide semiconductor
+cms,content management system
+cn,common name
+cnc,computer numerical control
+cng,cryptographic next generation
+cnr,communications and networking riser
+cobol,common business-oriented language
+com,component object model or communication
+corba,common object request broker architecture
+cors,cross-origin resource sharing
+cots,commercial off-the-shelf
+cpa,cell processor architecture
+cpan,comprehensive perl archive network
+cp/m,control program/monitor
+cpri,common public radio interface
+cps,characters per second
+cpu,central processing unit
+cqs,commandquery separation
+cqrs,command query responsibility segregation
+cr,carriage return
+cran,comprehensive r archive network
+crc,cyclic redundancy check
+crlf,carriage return line feeds
+crm,customer relationship management
+crs,computer reservations system
+crt,cathode-ray tube
+crud,"create, read, update and delete"
+cs,computer science
+cse,computer science and engineering
+csi,common system interface
+csm,compatibility support module
+csma/cd,carrier-sense multiple access with collision detection
+csp,communicating sequential processes
+csrf,cross-site request forgery
+css,cross-site scripting
+csv,comma-separated values
+ct,computerized tomography
+ctan,comprehensive tex archive network
+ctcp,client-to-client protocol
+cti,computer telephony integration
+ctfe,compile-time function execution
+ctl,computational tree logic
+ctm,close to metal
+cts,clear to send
+ctss,compatible time-sharing system
+cua,common user access
+cve,common vulnerabilities and exposures
+cvs,concurrent versioning system
+cx,customer experience
+dac,discretionary access control
+dal,database abstraction layer
+dao,disk-at-once
+dap,directory access protocol
+darpa,defense advanced research projects agency
+das,direct attached storage
+dat,digital audio tape
+db,database
+dskt,desktop
+dba,database administrator
+dbcs,double byte character set
+dbms,database management system
+dcc,direct client-to-client
+dccp,datagram congestion control protocol
+dcca,debian common core alliance
+dcl,data control language
+dcs,distributed control system
+dcmi,dublin core metadata initiative
+dcom,distributed component object model
+dd,double density
+dde,dynamic data exchange
+ddl,data definition language
+ddos,distributed denial of service
+ddr,double data rate
+dec,digital equipment corporation
+des,data encryption standard
+dev,development
+dfa,deterministic finite automaton
+dfd,data flow diagram
+dfs,distributed file system
+dgd,dworkin's game driver
+dhcp,dynamic host configuration protocol
+dhtml,dynamic hypertext markup language
+dif,data integrity field
+dimm,dual inline memory module
+din,deutsches institut für normung
+dip,dual in-line package
+dism,deployment image and service management tool
+divx,digital video express
+dkim,domain keys identified mail
+dl,deep learning
+dll,dynamic link library
+dlna,digital living network alliance
+dma,direct memory access
+dmca,digital millennium copyright act
+dmi,direct media interface
+dml,definitive media library
+dmr,dennis m. ritchie
+dmz,demilitarized zone
+dn,distinguished name
+dnd,drag-and-drop
+dns,domain name system
+doa,dead on arrival
+docsis,data over cable service interface specification
+dom,document object model
+dora,"discover, offer, request, acknowledge"
+dos,denial of service
+dos,disk operating system
+dp,dot pitch
+dpc,deferred procedure call
+dpi,dots per inch
+dpmi,dos protected mode interface
+dpms,display power management signaling
+dr,disaster recovery
+dram,dynamic random-access memory
+dr-dos,digital research  disk operating system
+dri,direct rendering infrastructure
+drm,direct rendering manager
+ds,data science
+dsa,digital signature algorithm
+dsdl,document schema definition languages
+dsdm,dynamic systems development method
+dsl,domain-specific language
+dslam,digital subscriber line access multiplexer
+dsn,deep stacking network
+dsp,digital signal processor
+dsssl,document style semantics and specification language
+dtd,document type definition
+dte,data terminal equipment or data transfer rate
+dto,data transfer object
+dtp,desktop publishing
+dtr,data terminal ready or data transfer rate
+dvd,digital versatile disc or digital video disc
+dvd-r,dvd-recordable
+dvd-rom,dvd-read-only memory
+dvd-rw,dvd-rewritable
+dvi,digital visual interface
+dvr,digital video recorder
+dw,data warehouse
+eai,enterprise application integration
+eap,extensible authentication protocol
+eas,exchange activesync
+ebcdic,extended binary coded decimal interchange code
+ebml,extensible binary meta language
+ecc,elliptic curve cryptography
+ecma,european computer manufacturers association
+ecn,explicit congestion notification
+ecos,embedded configurable operating system
+ecrs,expense and cost recovery system
+ecs,entity-component-system
+eda,exploratory data analysis
+edge,enhanced data rates for gsm evolution
+edi,electronic data interchange
+edo,extended data out
+edsac,electronic delay storage automatic calculator
+edvac,electronic discrete variable automatic computer
+eeprom,electronically erasable programmable read-only memory
+eff,electronic frontier foundation
+efi,extensible firmware interface
+efm,ethernet in the first mile
+efs,encrypting file system
+ega,enhanced graphics array
+e-mail,electronic mail
+egp,exterior gateway protocol
+eid,electronic id card
+eide,enhanced ide
+eigrp,enhanced interior gateway routing protocol
+eisa,extended industry standard architecture
+elf,executable and linkable format
+elm,extreme learning machine
+emacs,editor macros
+ems,expanded memory specification
+eniac,electronic numerical integrator and computer
+eof,end of file
+eol,end of line
+eom,end of message
+eos,end of support
+epic,explicitly parallel instruction computing
+eprom,erasable programmable read-only memory
+erd,entityrelationship diagram
+erm,entityrelationship model
+esata,external sata
+esb,enterprise service bus
+escon,enterprise systems connection
+esd,electrostatic discharge
+esi,electronically stored information
+esr,eric steven raymond
+etl,extract transform load
+etw,event tracing for windows
+euc,extended unix code
+eula,end user license agreement
+ewmh,extended window manager hints
+ext,extended file system
+eta,estimated time of arrival
+fap,fortran assembly program
+fasm,flat assembler
+fat,file allocation table
+faq,frequently asked questions
+fbdimm,fully buffered dual inline memory module
+fcb,file control block
+fcs,frame check sequence
+fdc,floppy-disk controller
+fds,fedora directory server
+fdd,floppy disk drive
+fddi,fiber distributed data interface
+fdm,frequency-division multiplexing
+fdma,frequency-division multiple access
+fe,frontend
+fec,forward error correction
+femb,front-end motherboard
+fet,field effect transistor
+fhs,filesystem hierarchy standard
+ficon,fiber connectivity
+fifo,first in first out
+fips,federal information processing standards
+fl,function level
+flac,free lossless audio codec
+flops,floating-point operations per second
+floss,free/libre/open-source software
+fmc,"fixed mobile convergence ""mobile uc or unified communications over wireless"""
+foldoc,free on-line dictionary of computing
+fortran,formula translation
+fosdem,free and open-source software developers' european meeting
+fosi,formatted output specification instance
+foss,free and open-source software
+fp,functional programming
+fpga,field programmable gate array
+fps,floating point systems
+fpu,floating-point unit
+fru,field-replaceable unit
+fs,file system
+fsb,front-side bus
+fsck,file system check
+fsf,free software foundation
+fsm,finite state machine
+fttc,fiber to the curb
+ftth,fiber to the home
+fttp,fiber to the premises
+ftp,file transfer protocol
+fqdn,fully qualified domain name
+fud,fear uncertainty doubt
+fws,folding white space
+fxp,file exchange protocol
+fyi,for your information
+g11n,globalization
+gas,gnu assembler
+gb,gigabit
+gb,gigabyte
+gbps,gigabits per second
+gcc,gnu compiler collection
+gcj,gnu compiler for java
+gcp,google cloud platform
+gcr,group coded recording
+gdb,gnu debugger
+gdi,graphics device interface
+gfdl,gnu free documentation license
+gif,graphics interchange format
+gigo,"garbage in, garbage out"
+gimp,gnu image manipulation program
+gimps,great internet mersenne prime search
+gis,geographic information system
+glut,opengl utility toolkit
+gml,geography markup language
+gnome,gnu network object model environment
+gnu,gnu's not unix
+goms,"goals, operators, methods, and selection rules"
+gpasm,gnu pic assembler
+gpfs,general parallel file system
+gpg,gnu privacy guard
+gpgpu,general-purpose computing on graphics processing units
+gpib,general-purpose instrumentation bus
+gpl,general-purpose language
+gprs,general packet radio service
+gpt,guid partition table
+gpu,graphics processing unit
+grub,grand unified boot-loader
+geran,gsm edge radio access network
+gsm,global system for mobile communications
+gtk/gtk+,gimp toolkit[1]
+gui,graphical user interface
+guid,globally unique identifier
+gwt,google web toolkit
+ha,high availability
+hal,hardware abstraction layer
+hasp,houston automatic spooling priority
+hba,host bus adapter
+hci,humancomputer interaction
+hd,high density
+hdd,hard disk drive
+hcl,hardware compatibility list
+hd dvd,high definition dvd
+hdl,hardware description language
+hdmi,high-definition multimedia interface
+heci,host embedded controller interface
+hf,high frequency
+hfs,hierarchical file system
+hhd,hybrid hard drive
+hid,human interface device
+hig,human interface guidelines
+hird,hurd of interfaces representing depth
+hlasm,high level assembler
+hls,http live streaming
+hma,high memory area
+hp,hewlett-packard
+hpc,high-performance computing
+hpfs,high performance file system
+hsdpa,high-speed downlink packet access
+htc,high-throughput computing
+hsm,hierarchical storage management
+ht,hyper threading
+htm,hierarchical temporal memory
+html,hypertext markup language
+http,hypertext transfer protocol
+httpd,hypertext transport protocol daemon
+https,http secure
+htx,hypertransport expansion
+hurd,hird of unix-replacing daemons
+hvd,holographic versatile disc
+hz,hertz
+i²c,inter-integrated circuit
+i²s,integrated interchip sound
+i18n,internationalization
+iana,internet assigned numbers authority
+iaas,infrastructure as a service
+iac,infrastructure as code
+ibcs,intel binary compatibility standard
+ibm,international business machines
+ic,integrated circuit
+ice,intrusion countermeasure electronics
+ich,i/o controller hub
+icmp,internet control message protocol
+icp,internet cache protocol
+ics,internet connection sharing
+ict,information and communication technology
+ide,integrated drive electronics
+idf,intermediate data format
+idl,interface definition language
+idp,identity provider (cybersecurity)
+ids,intrusion detection system
+ie,internet explorer
+iec,international electrotechnical commission
+ieee,institute of electrical and electronics engineers
+ietf,internet engineering task force
+ifl,integrated facility for linux
+igmp,internet group management protocol
+igrp,interior gateway routing protocol
+ihv,independent hardware vendor
+iiop,internet inter-orb protocol
+iis,internet information services
+ike,internet key exchange
+il,intermediate language
+im,instant message or instant messaging
+imap,internet message access protocol
+ime,input method editor
+infosec,information systems security
+i/o,input/output
+iot,internet of things
+ip,internet protocol
+ipam,ip address management
+ipc,inter-process communication
+ipl,initial program load
+ipmi,intelligent platform management interface
+ipo,inter procedural optimization
+ipp,internet printing protocol
+ips,intrusion prevention system
+ipsec,internet protocol security
+iptv,internet protocol television
+ipv4,internet protocol version 4
+ipv6,internet protocol version 6
+ipx,internetwork packet exchange
+ir,intermediate representation
+irc,internet relay chat
+irda,infrared data association
+iri,internationalized resource identifier
+irp,i/o request packet
+irq,interrupt request
+is,information systems
+is-is,intermediate system to intermediate system
+isa,instruction set architecture
+isam,indexed sequential access method
+isatap,intra-site automatic tunnel addressing protocol
+isc,internet storm center
+iscsi,internet small computer system interface
+isdn,integrated services digital network
+iso,international organization for standardization
+isns,internet storage name service
+isp,internet service provider
+ispf,interactive system productivity facility
+isr,interrupt service routine
+isv,independent software vendor
+it,information technology
+itil,information technology infrastructure library
+itl,interval temporal logic
+itu,international telecommunication union
+ivr(s),interactive voice response (system)
+j2ee,java 2 enterprise edition
+j2me,java 2 micro edition
+j2se,java 2 standard edition
+jaxb,java architecture for xml binding
+jax-rpc,jakarta xml (formerly java xml) for remote procedure calls
+jaxp,java api for xml processing
+jbod,just a bunch of disks
+jce,java cryptography extension
+jcl,job control language
+jcp,java community process
+jdbc,java database connectivity
+jdk,java development kit
+jee,java enterprise edition
+jes,job entry subsystem
+jds,java desktop system
+jfc,java foundation classes
+jfet,junction field-effect transistor
+jfs,ibm journaling file system
+jini,jini is not initials
+jit,just-in-time
+jme,java micro edition
+jmx,java management extensions
+jms,java message service
+jndi,java naming and directory interface
+jni,java native interface
+jnz,jump non-zero
+jpeg,joint photographic experts group
+jre,java runtime environment
+js,javascript
+jse,java standard edition
+json,javascript object notation
+jsp,javaserver pages
+jtag,joint test action group
+jvm,java virtual machine
+k&r,kernighan and ritchie
+k8s,kubernetes
+kb,knowledge base
+kb,kilobit
+kbps,kilobits per second
+kib,kibibyte
+kde,k desktop environment
+khz,kilohertz
+krl,knowledge representation language
+kvm,"keyboard, video, mouse"
+l10n,localization
+l2tp,layer two tunneling protocol
+lacp,link aggregation control protocol
+lan,local area network
+lba,logical block addressing
+lb,load balancer
+lcd,liquid crystal display
+lcr,least cost routing
+lcos,liquid crystal on silicon
+ldap,lightweight directory access protocol
+le,logical extents
+led,light-emitting diode
+lf,low frequency
+lfs,linux from scratch
+lga,land grid array
+lgpl,lesser general public license
+lib,library
+lif,low insertion force
+lifo,last in first out
+lilo,linux loader
+lip,loop initialization primitive
+lisp,list processing
+lkml,linux kernel mailing list
+llm,large language model
+lm,lan manager
+loc,lines of code
+lpc,lars pensjö c
+lpi,linux professional institute
+lpt,line print terminal
+lru,least recently used
+lsb,linux standard base
+lsi,latent semantic indexing
+lte,long term evolution
+ltl,linear temporal logic
+ltr,learning to rank
+lug,linux user group
+lun,logical unit number
+lv,logical volume
+lvd,low voltage differential
+lvm,logical volume management
+lzw,lempel-ziv-welch
+mac,message authentication code
+manet,mobile ad-hoc network
+man,metropolitan area network
+mapi,messaging application programming interface
+mbcs,multi byte character set
+mbd,model-based design
+mbr,master boot record
+mb,megabit
+mb,megabyte
+mbps,megabits per second
+mcad[broken anchor],microsoft certified application developer
+mcas[broken anchor],microsoft certified application specialist
+mca,microsoft certified architect
+mcdba,microsoft certified database administrator
+mcdst[broken anchor],microsoft certified desktop support technician
+mcitp,microsoft certified information technology professional
+mcm,microsoft certified master
+mcpd,microsoft certified professional developer
+mcp,microsoft certified professional
+mcsa[broken anchor],microsoft certified systems administrator
+mcsd[broken anchor],microsoft certified solution developer
+mcse[broken anchor],microsoft certified systems engineer
+mcts,microsoft certified technology specialist
+mct[broken anchor],microsoft certified trainer
+mda,model-driven architecture
+mdd/mdsd,model-driven (software) development
+mdf,main distribution frame
+mdi,multiple-document interface
+mdm,master data management
+me,[windows] millennium edition
+mfa,multi-factor authentication
+mfc,microsoft foundation classes
+mft,master file table
+mfm,modified frequency modulation
+mf,medium frequency
+mgcp,media gateway control protocol
+mhz,megahertz
+mib,management information base
+micr,magnetic ink character recognition or magnetic ink character reader
+midi,musical instrument digital interface
+mimd,"multiple instruction, multiple data"
+mime,multipurpose internet mail extensions
+mimo,multiple-input multiple-output
+minix,mini-unix
+mips,million instructions per second
+misd,"multiple instruction, single data"
+mis,management information systems
+mit,massachusetts institute of technology
+ml,machine learning
+mmc,microsoft management console
+mmf,multi-mode (optical) fiber
+mmio,memory-mapped i/o
+mmi,man machine interface.
+mmorpg,massively multiplayer online role-playing game
+mms,multimedia message service
+mmu,memory management unit
+mmx,multi-media extensions
+mng,multiple-image network graphics
+mobo,motherboard
+mom,message-oriented middleware
+moo,mud object oriented
+mop,meta-object protocol
+mosfet,metal-oxide semiconductor field effect transistor
+mos[broken anchor],microsoft office specialist
+motd,message of the day
+mous,microsoft office user specialist
+mov,apple quicktime multimedia file
+mpaa,motion picture association of america
+mpeg,motion pictures experts group
+mpls,multiprotocol label switching
+mpl,mozilla public license
+mpu,microprocessor unit
+ms-dos,microsoft dos
+msa,mail submission agent
+msb,most significant bit
+msdn,microsoft developer network
+msi,microsoft installer
+msn,microsoft network
+ms,memory stick
+mta,microsoft technology associate
+mtbf,mean time between failures
+mtu,maximum transmission unit
+mt,machine translation
+mua,mail user agent
+mud,multi-user dungeon
+mu,memory unit
+mvc,model-view-controller
+mvp,most valuable professional
+mvs,multiple virtual storage
+mwc,mobile world congress
+mxf,material exchange format
+mx,mail exchange
+nac,network access control
+nack,negative acknowledgement
+nak,negative acknowledge character
+nap,network access protection
+nas,network-attached storage
+nasm,netwide assembler
+nat,network address translation
+ncp,netware core protocol
+ncq,native command queuing
+ncsa,national center for supercomputing applications
+ndis,network driver interface specification
+ndps,novell distributed print services
+nds,novell directory services
+nep,network equipment provider
+netbios,network basic input/output system
+netbt,netbios over tcp/ip
+next,near-end crosstalk
+nfa,nondeterministic finite automaton
+nfc,near-field communication
+nfs,network file system
+ngl,angel
+ngscb,next-generation secure computing base
+ni,national instruments
+nic,network interface controller or network interface card
+nim,no internal message
+nio,non-blocking i/o
+nist,national institute of standards and technology
+nle,non-linear editing system
+nlp,natural language processing
+nls,native language support
+nmi,non-maskable interrupt
+nntp,network news transfer protocol
+noc,network operations center
+nop,no operation
+nos,network operating system
+np,nondeterministic polynomial time
+npl,netscape public license
+nptl,native posix thread library
+npu,network processing unit
+ns,netscape
+nsis,nullsoft scriptable install system
+nspr,netscape portable runtime
+nss,name service switch
+nt,new technology
+ntfs,nt filesystem
+ntlm,nt lan manager
+ntp,network time protocol
+numa,non-uniform memory access
+nurbs,non-uniform rational b-spline
+nvr,network video recorder
+nvram,non-volatile random-access memory
+oasis,organization for the advancement of structured information standards
+oat,operational acceptance testing
+obsai,open base station architecture initiative
+ocr,optical character recognition
+odbc,open database connectivity
+oem,original equipment manufacturer
+oes,open enterprise server
+ofdm,orthogonal frequency-division multiplexing
+oftc,open and free technology community
+oid,object identifier
+olap,online analytical processing
+ole,object linking and embedding
+oled,organic light emitting diode
+olpc,one laptop per child
+oltp,online transaction processing
+omf,object module format
+omg,object management group
+omr,optical mark reader
+oo,openoffice
+ooe,out-of-order execution
+oom,out of memory
+ooo,openoffice.org
+oooe,out-of-order execution
+oop,object-oriented programming
+ootb,out of the box
+opml,outline processor markup language
+orb,object request broker
+orm,objectrelational mapping
+os,operating system
+oscon,o'reilly open source convention
+osdn,open source development network
+osi,open systems interconnection
+ospf,open shortest path first
+oss,operations support system
+ostg,open source technology group
+otp,one-time password
+oui,organizationally unique identifier
+p2p,peer-to-peer
+paas,platform as a service
+pam,privileged access management
+pan,personal area network
+pap,password authentication protocol
+parc,palo alto research center
+pata,parallel ata
+pbs,portable batch system
+pc,personal computer
+pcb,process control block
+pc dos,personal computer disc operating system
+pci,peripheral component interconnect
+pcie,pci express
+pci-x,pci extended
+pcl,printer command language
+pcmcia,personal computer memory card international association
+pcm,pulse-code modulation
+pcre,perl compatible regular expressions
+pd,public domain
+pda,personal digital assistant
+pdf,portable document format
+pdh,plesiochronous digital hierarchy
+pdp,programmed data processor
+pe,portable executable
+perl,practical extraction and reporting language
+pfa,please find attachment
+pg,peripheral gateway
+pga,programmable gate array
+pgo,profile-guided optimization
+pgp,pretty good privacy
+php,hypertext preprocessor
+pic,programmable interrupt controller
+pid,process id
+pim,personal information manager
+pine,program for internet news and email
+ping,packet internet gopher
+pio,programmed input/output
+pixel,picture element
+pkcs,public key cryptography standards
+pki,public key infrastructure
+plc,programmable logic controller
+pld,programmable logic device
+pl/i,programming language one
+pl/m,programming language for microcomputers
+pl/p,programming language for prime
+plt,power line telecommunications
+pmm,post memory manager
+png,portable network graphics
+pnp,plug-and-play
+pnrp,peer name resolution protocol
+poe,power over ethernet
+pos,point of sale
+poco,plain old class object
+poid,persistent object identifier
+pojo,plain old java object
+pop,point of presence
+pop3,post office protocol v3
+posix,"portable operating system interface, formerly ieee-ix"
+post,power-on self test
+ppc,powerpc
+ppi,pixels per inch
+ppm,pages per minute
+ppp,point-to-point protocol
+pppoa,ppp over atm
+pppoe,ppp over ethernet
+pptp,point-to-point tunneling protocol
+pr,pull request
+prom,programmable read-only memory
+ps,postscript
+ps/2,personal system/2
+psa,professional services automation
+psm,platform specific model
+pstn,public switched telephone network
+psu,power supply unit
+psvi,post-schema-validation infoset
+pts-dos,phystechsoft  disk operating system
+pv,physical volume
+pvg,physical volume group
+pvr,personal video recorder
+pxe,preboot execution environment
+pxi,pci extensions for instrumentation
+prc,procedure remote call
+qdr,quad data rate
+qa,quality assurance
+qfp,quad flat package
+qos,quality of service
+qotd,quote of the day
+qt,quasar toolkit[citation needed]
+qtam,queued teleprocessing access method
+qsop,quarter small outline package
+qwave,quality windows audio/video experience
+racf,resource access control facility
+rad,rapid application development
+radius,remote authentication dial in user service
+raid,redundant array of independent disks
+raii,resource acquisition is initialization
+rait,redundant array of inexpensive tapes
+ram,random-access memory
+rarp,reverse address resolution protocol
+ras,remote access service
+rc,run commands
+rca,root cause analysis
+rcs,revision control system
+rd,remote desktop
+rd,remove directory
+rdbms,relational database management system
+rdc,remote desktop connection
+rdf,resource description framework
+rdm,relational data model
+rdos,real-time disk operating system
+rdp,remote desktop protocol
+rds,remote data services
+refal,recursive functions algorithmic language
+rep,raid error propagation
+rest,representational state transfer
+resv,reservation message
+regex,regular expression
+regexp,regular expression
+rf,random forest
+rfc,request for comments
+rfi,radio frequency interference
+rfid,radio frequency identification
+rgb,"red, green, blue"
+rgba,"red, green, blue, alpha"
+rhl,red hat linux
+rhel,red hat enterprise linux
+ria,rich internet application
+riaa,recording industry association of america
+rip,routing information protocol
+rir,regional internet registry
+risc,reduced instruction set computer
+risc os,reduced instruction set computer operating system
+rje,remote job entry
+rle,run-length encoding
+rll,run-length limited
+rmdir,remove directory
+rmi,remote method invocation
+rms,richard matthew stallman
+rom,read-only memory
+romb,read-out motherboard
+rom-dos,read-only memory  disk operating system
+rpa,robotic process automation
+rpc,remote procedure call
+rpg,report program generator
+rpm,rpm package manager
+rras,routing and remote access service
+rsa,rivest shamir adleman
+rsi,repetitive strain injury
+rss,"rich site summary, rdf site summary, or really simple syndication"
+rsvp,resource reservation protocol
+rtai,real-time application interface
+rtc,real-time clock
+rte,real-time enterprise
+rtems,real-time executive for multiprocessor systems
+rtf,rich text format
+rtl,right-to-left
+rtmp,real time messaging protocol
+rtos,real-time operating system
+rtp,real-time transport protocol
+rts,ready to send
+rtsp,real time streaming protocol
+rtti,run-time type information
+rtu,remote terminal unit
+rwd,responsive web design
+saas,software as a service
+sass,syntactically awesome style sheets
+sam,security account manager
+san,storage area network
+sas,serial attached scsi
+sata,serial ata
+sax,simple api for xml
+sbod,spinning beachball of death
+sbp-2,serial bus protocol 2
+sbin,superuser binary
+sbs,small business server
+sbu,standard build unit
+scada,supervisory control and data acquisition
+scid,source code in database
+scm,source code management
+scp,secure copy
+scpi,standard commands for programmable instrumentation
+scsa,secure content storage association
+scsi,small computer system interface
+sctp,stream control transmission protocol
+sd,secure digital
+sddl,security descriptor definition language
+sdh,synchronous digital hierarchy
+sdi,single-document interface
+sec,single edge contact
+sdio,secure digital input output
+sdk,software development kit
+sdl,simple directmedia layer
+sdn,service delivery network
+sdp,session description protocol
+sdr,software-defined radio
+sdram,synchronous dynamic random-access memory
+sdsl,symmetric dsl
+se,single ended
+sei,software engineering institute
+seo,search engine optimization
+sftp,ssh file transfer protocol
+sgi,"silicon graphics, incorporated"
+sgml,standard generalized markup language
+sgr,select graphic rendition
+sha,secure hash algorithm
+shdsl,single-pair high-speed digital subscriber line
+siem,security information and event management
+sigcat,special interest group on cd-rom applications and technology
+siggraph,special interest group on graphics
+simd,"single instruction, multiple data"
+sim,subscriber identification module
+simm,single inline memory module
+sip,supplementary ideographic plane
+sisd,"single instruction, single data"
+siso,single-input and single-output
+sla,service level agreement
+sled,suse linux enterprise desktop
+sles,suse linux enterprise server
+sli,scalable link interface
+slip,serial line internet protocol
+slm,service level management
+sloc,source lines of code
+sme,subject matter expert
+smf,single-mode (optical) fiber
+spm,software project management
+spmd,"single program, multiple data"
+spof,single point of failure
+sma,subminiature version a
+smb,server message block
+smbios,system management bios
+smil,synchronized multimedia integration language
+s/mime,secure/multipurpose internet mail extensions
+smp,symmetric multi-processing
+smps,switch mode power supply
+sms,system management server
+smt,simultaneous multithreading
+smtp,simple mail transfer protocol
+sna,systems network architecture
+snmp,simple network management protocol
+sntp,simple network time protocol
+soa,service-oriented architecture
+soap,symbolic optimal assembly program
+sopa,stop online piracy act
+soc,system-on-a-chip
+so-dimm,small outline dimm
+soe,standard operating environment
+soho,small office/home office
+soi,silicon on insulator
+solid,"single-responsibility, open-closed, liskov substitution, interface segregation, dependency inversion"
+sp,service pack
+spa,single page application
+spf,sender policy framework
+spi,stateful packet inspection
+sparc,scalable processor architecture
+sql,structured query language
+sram,static random-access memory
+ssa,static single assignment
+ssd,solid-state drive
+ssdp,simple service discovery protocol
+sse,streaming simd extensions
+ssh,secure shell
+ssi,small-scale integration
+ssid,service set identifier
+ssl,secure socket layer
+sso,single sign on
+ssp,supplementary special-purpose plane
+ssr,server side rendering
+ssse,supplementary streaming simd extensions
+sssp,single source shortest path
+sstp,secure socket tunneling protocol
+su,superuser
+sus,single unix specification
+suse,software und system-entwicklung
+svc,scalable video coding
+svg,scalable vector graphics
+svga,super video graphics array
+svd,singing voice detection
+swf,shock wave flash
+swt,standard widget toolkit
+sysop,system operator
+tao,track-at-once
+tapi,telephony application programming interface
+tasm,turbo assembler
+tb,terabyte
+tcl,tool command language
+tcp,transmission control protocol
+tcp/ip,transmission control protocol/internet protocol
+tcu,telecommunication control unit
+tdma,time-division multiple access
+tdp,thermal design power
+tft,thin-film transistor
+tftp,trivial file transfer protocol
+ti,texas instruments
+tiff,tagged image file format
+tla,three-letter acronym
+tld,top-level domain
+tls,transport layer security
+tlv,typelengthvalue
+tmp,temporary
+tnc,threaded neill-concelman connector
+tpf,transaction processing facility
+tpm,trusted platform module
+troff,trace off
+tron,the real-time operating system nucleus
+trsdos,tandy radio shack  disk operating system
+tso,time sharing option
+tsp,traveling salesman problem
+tsr,terminate and stay resident
+tta,true tap audio
+ttf,truetype font
+ttl,time to live
+tts,text-to-speech
+tty,teletype
+tucows,the ultimate collection of winsock software
+tug,tex users group
+twain,technology without an interesting name
+uaag,user agent accessibility guidelines
+uac,user account control
+uart,universal asynchronous receiver/transmitter
+uat,user acceptance testing
+ub,undefined behavior
+ucs,universal character set
+uddi,"universal description, discovery, and integration"
+udma,ultra dma
+udp,user datagram protocol
+uefi,unified extensible firmware interface
+uhf,ultra high frequency
+ui,user interface
+ul,upload
+ula,uncommitted logic array
+ulsi,ultra large scale integration
+uma,upper memory area
+umb,upper memory block
+uml,user-mode linux
+umpc,ultra-mobile personal computer
+umts,universal mobile telecommunications system
+unc,universal naming convention
+univac,universal automatic computer (by mks)
+ups,uninterruptible power supply or uninterrupted power supply
+uri,uniform resource identifier
+url,uniform resource locator
+urn,uniform resource name
+usb,universal serial bus
+usr,user system resources
+usr,u.s. robotics
+utc,coordinated universal time
+utf,unicode transformation format
+utp,unshielded twisted pair
+utran,universal terrestrial radio access network
+uucp,unix to unix copy
+uuid,universally unique identifier
+uun,universal user name
+uvc,universal virtual computer
+uwp,universal windows platform
+ux,user experience
+var,variable
+volte,voice over long term evolution
+vax,virtual address extension
+vcpi,virtual control program interface
+vb,visual basic
+vba,visual basic for applications
+vbs,visual basic script
+vdi,virtual desktop infrastructure
+vdu,visual display unit
+vdm,virtual dos machine
+vdsl,very high bitrate digital subscriber line
+vesa,video electronics standards association
+vfat,virtual fat
+vhd,virtual hard disk
+vfs,virtual file system
+vg,volume group
+vga,video graphics array
+vhf,very high frequency
+virus,vital information resource under seize
+vlan,virtual local area network
+vlsm,variable-length subnet masking
+vlb,vesa local bus
+vlf,very low frequency
+vliw,very long instruction word
+vlsi,very-large-scale integration
+vm,virtual memory
+vmm,virtual machine monitor
+vnc,virtual network computing
+vod,video on demand
+voip,voice over internet protocol
+vpn,virtual private network
+vps,virtual private server
+vpu,visual processing unit
+vr,virtual reality
+vrml,virtual reality modeling language
+vsam,virtual storage-access method
+vsat,very small aperture terminal
+vt,video terminal
+vtl,virtual tape library
+vtam,virtual telecommunications access method
+vram,video random-access memory
+w3c,world wide web consortium
+wwdc,apple world wide developer conference
+wafs,wide area file services
+wai,web accessibility initiative
+wais,wide area information server
+wan,wide area network
+wap,wireless application protocol
+wasm,watcom assembler
+wbem,web-based enterprise management
+wcag,web content accessibility guidelines
+wcf,windows communication foundation
+wdm,wavelength-division multiplexing
+webdav,www distributed authoring and versioning
+wep,wired equivalent privacy
+wfi,wait for interrupt
+wimax,worldwide interoperability for microwave access
+winfs,windows future storage
+winrt,windows runtime
+wins,windows internet name service
+wlan,wireless local area network
+wma,windows media audio
+wmi,windows management instrumentation
+wmv,windows media video
+wns,windows push notification service
+wol,wake-on-lan
+wor,wake-on-ring
+wora,"write once, run anywhere"
+wore,"write once, run everywhere"
+worm,write once read many
+wpa,wi-fi protected access
+wpad,web proxy autodiscovery protocol
+wpan,wireless personal area network
+wpf,windows presentation foundation
+ws-d,web services-discovery
+wsdl,web services description language
+wsfl,web services flow language
+wusb,wireless universal serial bus
+wwan,wireless wide area network
+wwid,world wide identifier
+wwn,world wide name
+www,world wide web
+wysiwyg,what you see is what you get
+wzc,wireless zero configuration
+xaml,extensible application markup language
+xdm,x window display manager
+xdmcp,x display manager control protocol
+xcbl,xml common business library
+xhtml,extensible hypertext markup language
+xilp,x interactive listproc
+xml,extensible markup language
+xmms,x multimedia system
+xmpp,extensible messaging and presence protocol
+xms,extended memory specification
+xns,xerox network systems
+xp,extreme programming
+xpcom,cross platform component object model
+xpi,xpinstall
+xpidl,cross-platform idl
+xps,xml paper specification
+xsd,xml schema definition
+xsl,extensible stylesheet language
+xsl-fo,extensible stylesheet language formatting objects
+xslt,extensible stylesheet language transformations
+xss,cross-site scripting
+xtf,extended triton format
+xul,xml user interface language
+xvga,extended video graphics adapter
+y2k,year two thousand
+y2k38,year two thousand thirty eight
+yaaf,yet another application framework
+yacc,yet another compiler compiler
+yagni,you aren't gonna need it
+yaml,yaml ain't markup language
+yarn,yet another resource negotiator
+yast,yet another setup tool
+zcav,zone constant angular velocity
+zcs,zero code suppression
+zif,zero insertion force
+zifs,zero insertion force socket
+zip,zip file archive
+zisc,zero instruction set computer
+zoi,zero one infinity
+zope,z object publishing environment
+zma,zone multicast address
+zpl,z-level programming language
+1-bit sgd,1-bit stochastic gradient descent
+bleu,bilingual evaluation understudy
+bpmf,bayesian probabilistic matrix factorization
+bptt,back-propagation through time
+cbow,continuous-bag-of-words
+cmms,conditional markov models
+cnn,convolutional neural network
+crfs,conditional random fields
+ctc,connectionist temporal classification
+ctr,collaborative topic regression
+dcgan,deep convolutional generative adversarial network
+de,differential evolution
+elu,exponential linear unit
+em,expectation-maximization
+f1 score,harmonic precision-recall mean
+fft,fast fourier transform
+fst,finite-state transducer
+gam,generalized additive model
+gan,generative adversarial network
+gap,global average pooling
+gmm,gaussian mixture model
+hdp,hierarchical dirichlet process
+hmms,hidden markov models
+kl,kullback-leibler  divergence
+lda,linear discriminant analysis
+ldade,latent dirichlet allocation differential evolution
+lsa,latent semantic analysis
+lstm,long short-term memory
+map,maximum a posteriori  estimation
+mcmc,markov chain monte carlo
+mdl,minimum description length  principle
+mle,maximum likelihood estimation
+mrr,mean reciprocal rank
+ner,named entity recognition
+nerq,named entity recognition in query
+nfl,no free lunch  theorem
+ntm,neural turing machine
+paco,poisson additive co-clustering
+pca,principal component analysis
+plsi,probabilistic latent semantic indexing
+pmf,probabilistic matrix factorization
+pmi,pointwise mutual information
+pos,part-of-speech  tagging
+ppmi,positive pointwise mutual information
+pytm,pitman-yor topic modeling
+rl,reinforcement learning
+rlfm,regression based latent factors
+roc,receiver operating characteristic
+relu,rectified linear unit
+sbm,stochastic block model
+sbo,structured bayesian optimization
+sbse,search-based software engineering
+sch,stochastic convex hull
+sgd,stochastic gradient descent
+sgvb,stochastic gradient variational bayes
+smbo,sequential model-based optimization
+ssvm,smooth support vector machine
+svm,support vector machine
+tgan,temporal generative adversarial network
+trpo,trust region policy optimization
+vae,variational autoencoder
+vq-vae,vector-quantized variational autoencoders
+wfst,weighted finite-state transducer
+audio,bit transparency
+hlda,hierarchical latent dirichlet allocation
+i.i.d,independent and identically distributed
+intersection over union,jaccard index
+seq2seq,sequence to sequence
+amt,automatic music transcription
+bilstm,bidirectional long short-term memory
+cdbn,convolutional deep belief networks
+cec,constant error carousel
+clnn,conditional neural networks
+convnet,convolutional neural network
+dae,denoising autoencoder or deep autoencoder
+dbn,deep belief network
+deconvnet,deconvolutional neural network
+dnn,deep neural network
+dwt,discrete wavelet transform
+fc,fully connected
+fcn,fully convolutional network
+fc-lstm,fully connected long short-term memory
+gbrcn,gradient-boosting random convolutional network
+gfnn,gradient frequency neural networks
+glcm,gray level co-occurrence matrix
+han,hierarchical attention network
+hhds,hiphop dataset
+mclnn,masked conditional neural networks
+mer,music emotion recognition
+mlm,music language models
+mlp,multi-layer perceptron
+mrs,music recommender system
+msdae,modified sparse denoising autoencoder
+mse,mean squared error
+msr,music style recognition
+nn,neural network
+nnmodff,neural network based multi-onset detection function fusion
+odf,onset detection function
+pnn,probabilistic neural network
+poc,proof of concept
+prelu,parametric rectified linear unit
+ransac,random sample consensus
+rnn,recurrent neural network
+rtrl,real-time recurrent learning
+sae,stacked ae
+sdae,stacked dae
+svs,singing voice separation
+vad,voice activity detection
+vpnn,vector product neural network
+wpe,weighted prediction error
+ann,neural networks
+lstm,long short term memory

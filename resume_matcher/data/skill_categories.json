@@ -1,0 +1,118 @@
+{
+    "data manipulation": [
+        "pandas",
+        "numpy",
+        "data cleaning",
+        "data preprocessing",
+        "data wrangling",
+        "feature engineering",
+        "extract transform load"
+    ],
+    "data analysis": [
+        "exploratory data analysis",
+        "matplotlib",
+        "seaborn",
+        "plotly",
+        "power bi",
+        "tableau",
+        "data visualization",
+        "dashboard"
+    ],
+    "machine learning": [
+        "scikit learn",
+        "regression",
+        "classification",
+        "clustering",
+        "decision trees",
+        "random forest",
+        "support vector machine",
+        "xgboost",
+        "lightgbm",
+        "model evaluation",
+        "cross validation",
+        "feature selection"
+    ],
+    "deep learning": [
+        "tensorflow",
+        "keras",
+        "pytorch",
+        "convolutional neural network",
+        "recurrent neural network",
+        "long short term memory",
+        "transformers",
+        "neural networks"
+    ],
+    "databases": [
+        "structured query language",
+        "mysql",
+        "postgresql",
+        "mongodb",
+        "nosql",
+        "sqlite"
+    ],
+    "cloud computing": [
+        "amazon web services",
+        "google cloud",
+        "azure",
+        "cloud deployment",
+        "ec2",
+        "s3"
+    ],
+    "mlops": [
+        "docker",
+        "kubernetes",
+        "mlflow",
+        "ci cd",
+        "model deployment",
+        "fastapi",
+        "flask",
+        "rest api",
+        "api deployment",
+        "monitoring",
+        "streamlit",
+        "gradio"
+    ],
+    "statistics": [
+        "hypothesis testing",
+        "a/b testing",
+        "probability",
+        "statistics",
+        "bayesian",
+        "linear algebra",
+        "statistical modeling",
+        "distribution"
+    ],
+    "data engineering": [
+        "spark",
+        "hadoop",
+        "pyspark",
+        "airflow",
+        "kafka",
+        "data pipelines",
+        "big data"
+    ],
+    "natural language processing": [
+        "text processing",
+        "tokenization",
+        "named entity recognition",
+        "nltk",
+        "spacy",
+        "tf idf",
+        "word embeddings",
+        "text classification"
+    ],
+    "computer vision": [
+        "opencv",
+        "image processing",
+        "object detection",
+        "image classification",
+        "yolo"
+    ],
+    "version control": [
+        "git",
+        "github",
+        "bitbucket",
+        "linux",
+        "bash"
+    ]
+}

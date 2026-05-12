@@ -1,0 +1,35 @@
+Role: Data Science Intern
+Company: TechNova Analytics
+
+Responsibilities
+
+Analyze large datasets to extract actionable insights
+Build machine learning models for business problems
+Perform data preprocessing and feature engineering
+Create dashboards and reports for stakeholders
+Work with NLP models for text-based applications
+
+Requirements
+
+Must Have:
+
+Strong knowledge of Python and SQL
+Experience with Pandas, NumPy, Scikit-learn
+Understanding of Machine Learning algorithms
+Experience in Data Cleaning and EDA
+Familiarity with data visualization tools (Power BI / Tableau)
+
+Good to Have:
+
+Experience with Deep Learning (TensorFlow / PyTorch)
+Knowledge of NLP techniques
+Exposure to model deployment (Flask / Django)
+Git version control
+
+Preferred Candidate
+
+Strong problem-solving skills
+Good understanding of statistics
+Ability to work with real-world datasets
+
+
